@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-wrm30z.date-me.pro/sitemap.xml
